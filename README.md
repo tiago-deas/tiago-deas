@@ -2,7 +2,7 @@
 
 <h4 align="center">My name is Tiago de Almeida Silva and I am a Petroleum and H&S Engineer with specialization in Business. Currently I am pursuing an MBA in Data Science and Analytics at the University of São Paulo (USP) and a Full Stack Developer course at the National Service for Industrial Training (SENAI)</h4>
 
-<section><a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+<section align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiago-deas&count_private=true&show_icons=true&theme=merko" width="44%"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
