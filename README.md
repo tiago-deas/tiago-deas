@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiago-deas&count_private=true&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-deas&theme=merko" width="80%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-deas&theme=merko" width="40%"/>
 </a>
 
 
