@@ -7,7 +7,7 @@ My name is Tiago de Almeida Silva and I am a Petroleum and H&S Engineer with spe
 Find a little bit more about my academic and professional journey below 👇
 
 
-In December 2013, I graduated in <b>Petroleum Engineering</b> from the University Centre of Barra Mansa and started working the following year as a <b>GIS assistant</b> at the Brazilian Institute of Geography and Statistics (IBGE). I stayed there for 3 years, during which time I obtained my second degree in <b>Health and Safety Engineering</b> at the Pontifical Catholic University of Minas Gerais. In Brazil, a postgraduate degree in Health and Safety Engineering is equivalent to a Bachelor's degree, due to a specificity in the H&S field in the country.
+In December 2013, I graduated in <b>Petroleum Engineering</b> from the University Centre of Barra Mansa and started working the following year as a <b>GIS assistant</b> at the Brazilian Institute of Geography and Statistics (IBGE). I stayed there for 3 years, during which time I obtained my second degree in <font color='green'><b>Health and Safety Engineering</b></font> at the Pontifical Catholic University of Minas Gerais. In Brazil, a postgraduate degree in Health and Safety Engineering is equivalent to a Bachelor's degree, due to a specificity in the H&S field in the country.
 
 I moved to <b>Auckland in New Zealand</b>, after the end of my contract with IBGE in August 2017, to pursue a </b>Graduate Diploma in International Business Innovation</b> at ICL Graduate Business School. It was a one-year program where I had the opportunity to learn concepts related to the business world while developing, in another language, my background in the field.
 
