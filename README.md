@@ -9,6 +9,7 @@ My name is Tiago de Almeida Silva and I am a Petroleum and H&S Engineer with spe
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-deas&layout=compact&theme=merko" />
 </a>
 
+
 Find a little bit more about my academic and professional journey below 👇
 
 
