@@ -1,5 +1,5 @@
-<h1 align="center">[![hi-wave](https://user-images.githubusercontent.com/94201571/155387363-ce45968d-1a8d-454b-a323-9daad291d323.gif)]
-</h1>
+<div align="center"><h1>Hi There!</h1><img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="90px"></div>
+
 
 <h4 align="center">My name is Tiago de Almeida Silva and I am a Petroleum and H&S Engineer with specialization in Business. Currently I am pursuing an MBA in Data Science and Analytics at the University of São Paulo (USP) and a Full Stack Developer course at the National Service for Industrial Training (SENAI)</h4>
 
@@ -24,19 +24,24 @@
 
 <h4 align="center">Some of the Skills I have got so far 👇</h4>
 
-<h3 align="center">:chart_with_upwards_trend: Data Science and Analytics</h3>
+<h1 align="center">:chart_with_upwards_trend: Data Science and Analytics</h1>
 
-<img scr="https://logosmarcas.net/wp-content/uploads/2020/04/Twitter-Logo.png" width="30px">
+<div align="center"><img src="https://i.imgur.com/Mumeao9.png" width="100px">
+<img src="https://i.imgur.com/wuC11RE.png" width="100px">
+<img src="https://i.imgur.com/FhlmNBF.png" width="120px">
+<img src="https://i.imgur.com/lfFVF0g.png" width="140px">
+<img src="https://i.imgur.com/WDBqZDi.png" width="100px">
+<img src="https://i.imgur.com/Hc7eAQE.png" width="100px">
+<img src="https://i.imgur.com/CMMQiUe.png" width="100px">
+<img src="https://i.imgur.com/yJEBrA0.png" width="100px"></div>
 
 
-<h3 align="center">:computer: Full Stack Developer</h3>
+<h1 align="center">:computer: Full Stack Developer</h1>
 
 
 
 
 <h4 align="center">Feel freel to get in touch with me through my Linkedin, Instagram or Email 👇</h4>
-
-[![gmail](https://user-images.githubusercontent.com/94201571/155387237-2c1efc9d-e9c7-49bb-a564-beeee1e7821d.png)]
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/tiago-deas)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagodeas/)](https://www.linkedin.com/in/tiagodeas/)
