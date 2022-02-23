@@ -1,4 +1,5 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">Hi there! ![image](https://user-images.githubusercontent.com/94201571/155385618-9248869d-0a80-445c-a14e-622f39b43587.png)
+</h1>
 
 <h4 align="center">My name is Tiago de Almeida Silva and I am a Petroleum and H&S Engineer with specialization in Business. Currently I am pursuing an MBA in Data Science and Analytics at the University of São Paulo (USP) and a Full Stack Developer course at the National Service for Industrial Training (SENAI)</h4>
 
@@ -25,7 +26,7 @@
 
 <h3 align="center">:chart_with_upwards_trend: Data Science and Analytics</h3>
 
-<img scr="https://cdn-icons.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1645641753~hmac=66256c261f1f94e1afe0c9c349585609" width="30px">
+<img scr="https://logosmarcas.net/wp-content/uploads/2020/04/Twitter-Logo.png" width="30px">
 
 
 <h3 align="center">:computer: Full Stack Developer</h3>
