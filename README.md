@@ -23,15 +23,17 @@
 
 <h4 align="center">Some of the Skills I have got so far 👇</h4>
 
-<h3 align="center">Data Science and Analytics</h3>
+<h3 align="center">:chart_with_upwards_trend: Data Science and Analytics</h3>
 
 
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">:computer: Full Stack Developer</h3>
 
 
 
 
 <h4 align="center">Feel freel to get in touch with me through my Linkedin, Instagram or Email 👇</h4>
+
+<img scr="">
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/tiago-deas)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagodeas/)](https://www.linkedin.com/in/tiagodeas/)
