@@ -17,16 +17,9 @@ Some of the Skills I have got so far 👇
 
 <h3>Data Science</h3>
 
-[<img scr="https://cdn-icons-png.flaticon.com/512/2103/2103665.png" align="left" alt="Tiago de Almeida-R" width="30px">]
-[<img scr="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" align="center" alt="Tiago de Almeida-Py" width="30px">]
-[<img scr="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" align="right" alt="Tiago de Almeida-sql" width="30px">]
-[<img scr="https://cdn-icons.flaticon.com/png/512/4494/premium/4494740.png?token=exp=1645633459~hmac=07bd998a21536e592fd9e678bd36aa36" align="right" alt="Tiago de Almeida-git" width="30px">]
 
 <h3>Full Stack Developer</h3>
 
-[<img scr="https://cdn-icons-png.flaticon.com/512/888/888859.pngg" align="left" alt="Tiago de Almeida-html" width="30px">]
-[<img scr="https://cdn-icons-png.flaticon.com/512/919/919826.png" align="center" alt="Tiago de Almeida-css" width="30px">]
-[<img scr="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" align="right" alt="Tiago de Almeida-js" width="30px">]
 
 
 
@@ -34,8 +27,8 @@ Feel freel to get in touch with me through my Linkedin, Instagram or Email 👇
 
 # Hi, I'm Fagner! :D
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fagnerpsantos)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/tiago-deas)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagodeas/)](https://www.linkedin.com/in/tiagodeas/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/fagnerpsantos)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
 
