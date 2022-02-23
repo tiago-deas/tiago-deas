@@ -13,7 +13,7 @@
 <h4 align="center">Find a little bit more about my academic and professional journey below 👇</h4>
 
 
-<p align="center">In December 2013, I graduated in <b>Petroleum Engineering</b> from the University Centre of Barra Mansa and started working the following year as a <b>GIS assistant</b> at the Brazilian Institute of Geography and Statistics (IBGE). I stayed there for 3 years, during which time I obtained my second degree in <font color='green'><b>Health and Safety Engineering</b></font> at the Pontifical Catholic University of Minas Gerais. In Brazil, a postgraduate degree in Health and Safety Engineering is equivalent to a Bachelor's degree, due to a specificity in the H&S field in the country.<p>
+<p align="center">In December 2013, I graduated in <b>Petroleum Engineering</b> from the University Centre of Barra Mansa and started working the following year as a <b>GIS assistant</b> at the Brazilian Institute of Geography and Statistics (IBGE). I stayed there for 3 years, during which time I obtained my second degree in <font color='green'><b><i>Health and Safety Engineering</i></b> at the Pontifical Catholic University of Minas Gerais. In Brazil, a postgraduate degree in Health and Safety Engineering is equivalent to a Bachelor's degree, due to a specificity in the H&S field in the country.<p>
 
 <p align="center">I moved to <b>Auckland in New Zealand</b>, after the end of my contract with IBGE in August 2017, to pursue a </b>Graduate Diploma in International Business Innovation</b> at ICL Graduate Business School. It was a one-year program where I had the opportunity to learn concepts related to the business world while developing, in another language, my background in the field.</p>
 
@@ -33,10 +33,10 @@
 
 <h4 align="center">Feel freel to get in touch with me through my Linkedin, Instagram or Email 👇</h4>
 
-<div align="center">[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/tiago-deas)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/tiago-deas)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagodeas/)](https://www.linkedin.com/in/tiagodeas/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/fagnerpsantos)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)</div>
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
 
 
 
