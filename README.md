@@ -32,13 +32,13 @@ Some of the Skills I have got so far 👇
 
 Feel freel to get in touch with me through my Linkedin, Instagram or Email 👇
 
-[<img scr="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1645632182~hmac=495f919c9b604b9fefed2f84e5f16777" align="left" alt="Tiago de Almeida-lk" width="30px">][linkedin]
+# Hi, I'm Fagner! :D
 
-[linkedin]:https://www.linkedin.com/in/tiagodeas/
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fagnerpsantos)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/fagnerpsantos)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
 
-[<img scr="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" align="center" alt="Tiago de Almeida-ig" width="30px">][Instagram]
-
-[Instagram]:https://www.instagram.com/tiago.deas/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiago-deas&count_private=true&show_icons=true&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
