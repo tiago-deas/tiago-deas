@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! ![image](https://user-images.githubusercontent.com/94201571/155385618-9248869d-0a80-445c-a14e-622f39b43587.png)
+<h1 align="center">[![hi-wave](https://user-images.githubusercontent.com/94201571/155387363-ce45968d-1a8d-454b-a323-9daad291d323.gif)]
 </h1>
 
 <h4 align="center">My name is Tiago de Almeida Silva and I am a Petroleum and H&S Engineer with specialization in Business. Currently I am pursuing an MBA in Data Science and Analytics at the University of São Paulo (USP) and a Full Stack Developer course at the National Service for Industrial Training (SENAI)</h4>
@@ -35,6 +35,8 @@
 
 
 <h4 align="center">Feel freel to get in touch with me through my Linkedin, Instagram or Email 👇</h4>
+
+[![gmail](https://user-images.githubusercontent.com/94201571/155387237-2c1efc9d-e9c7-49bb-a564-beeee1e7821d.png)]
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/tiago-deas)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagodeas/)](https://www.linkedin.com/in/tiagodeas/)
