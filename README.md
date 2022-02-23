@@ -22,31 +22,57 @@
 
 <p align="center">In September 2021, I decided to move back to Brazil to pursue a new career path. IT was something I had always been interested in, as it was my second option before I started studying engineering. With this in mind, I started planning a career path in IT and I found out <b><i>Data Science</i></B> is the field I like the most because I love to clean, manipulate and visualize data. Moreover, I believe that all the skills I got throughout all my academic and professional years can help me lead my career as a Data Scientist because professionals in this field need to have multitasking skills. To achieve my current career goals, I am studying for an <b><i>MBA in Data Science and Analytics</i></b> at the University of São Paulo, and at the same time, studying to become a <b><i>Full Stack Developer</i></b> at the National Service for Industrial Training (SENAI) because I think it is very important to have a <b></i>programming background</i><b> and this is another field that I am pretty interested in and passionate about.</p>
 
-<h4 align="center">Some of the Skills I have got so far 👇</h4>
-
-<h1 align="center">:chart_with_upwards_trend: Data Science and Analytics</h1>
-
-<div align="center"><img src="https://i.imgur.com/Mumeao9.png" width="100px">
-<img src="https://i.imgur.com/wuC11RE.png" width="100px">
-<img src="https://i.imgur.com/FhlmNBF.png" width="120px">
-<img src="https://i.imgur.com/lfFVF0g.png" width="140px">
-<img src="https://i.imgur.com/WDBqZDi.png" width="100px">
-<img src="https://i.imgur.com/Hc7eAQE.png" width="100px">
-<img src="https://i.imgur.com/CMMQiUe.png" width="100px">
-<img src="https://i.imgur.com/yJEBrA0.png" width="100px"></div>
-
-
-<h1 align="center">:computer: Full Stack Developer</h1>
+<h4 align="center">Tools I have got some knowledge so far 👇</h4>
 
 
 
+<h1 align="center">Data Science and Analytics</h1>
 
-<h4 align="center">Feel freel to get in touch with me through my Linkedin, Instagram or Email 👇</h4>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/tiago-deas)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagodeas/)](https://www.linkedin.com/in/tiagodeas/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/fagnerpsantos)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
+
+<div align="center">
+  <img src="https://i.imgur.com/Mumeao9.png" width="80px">
+  <img src="https://i.imgur.com/wuC11RE.png" width="80px">
+  <img src="https://i.imgur.com/FhlmNBF.png" width="100px">
+  <img src="https://i.imgur.com/lfFVF0g.png" width="100px">
+  <img src="https://i.imgur.com/WDBqZDi.png" width="80px">
+  <img src="https://i.imgur.com/Hc7eAQE.png" width="80px">
+  <img src="https://i.imgur.com/CMMQiUe.png" width="80px">
+  <img src="https://i.imgur.com/yJEBrA0.png" width="80px">
+</div>
+
+
+
+
+<h1 align="center">Full Stack Developer</h1>
+
+
+
+<div align="center">
+  <img src="https://i.imgur.com/tBCGCG8.png" width="90px">
+  <img src="https://i.imgur.com/GuKsBJ1.png" width="90px">
+  <img src="https://i.imgur.com/u7eQWue.png" width="60px">
+  <img src="https://i.imgur.com/TQVZdTE.png" width="90px">  
+  <img src="https://i.imgur.com/Sr9Jtu8.png" width="80px">  
+  <img src="https://i.imgur.com/FnP8Azk.png" width="80px">  
+  <img src="https://i.imgur.com/Tx0OE3q.png" width="80px">  
+  <img src="https://i.imgur.com/4nrO1jM.png" width="80px">  
+</div>
+
+
+
+
+<h3 align="center">Feel free to get in touch with me through my GitHub, Linkedin, Instagram, or Email 👇</h3>
+
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/tiagodeas/"><img src="https://i.imgur.com/1eo6rSH.png" width="84px"></a>
+  <a href="https://github.com/tiago-deas"><img src="https://i.imgur.com/0723XfP.png" width="80px"></a>
+  <a href="https://www.instagram.com/tiago.deas/"><img src="https://i.imgur.com/iG7XGCl.png" width="95px"></a>
+  <a href="mailto:tiago.deas@usp.br?subject="I come from GitHub!"><img src="https://i.imgur.com/QgkCT4T.png" width="80px"></a>
+</div>
+
 
 
 
