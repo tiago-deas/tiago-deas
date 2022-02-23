@@ -1,4 +1,4 @@
-Hi there! 👋
+<h2 align="center">Hi there! 👋</h2>
 
 <p align="center">My name is Tiago de Almeida Silva and I am a Petroleum and H&S Engineer with specialization in Business. Currently I am pursuing an MBA in Data Science and Analytics at the University of São Paulo (USP)</p>
 
