@@ -2,7 +2,7 @@ Hi there! 👋
 
 My name is Tiago de Almeida Silva and I am a Petroleum and H&S Engineer with specialization in Business. Currently I am pursuing an MBA in Data Science and Analytics at the University of São Paulo (USP)
 
-Find a little bit more about my academic and professional journay below ![image](https://user-images.githubusercontent.com/94201571/155345949-1a649fae-6110-4d7e-913d-ef26d9981ba1.png)
+Find a little bit more about my academic and professional journey below 👇
 
 
 In December 2013, I graduated in <b>Petroleum Engineering</b> from the University Centre of Barra Mansa and started working the following year as a <b>GIS assistant</b> at the Brazilian Institute of Geography and Statistics (IBGE). I stayed there for 3 years, during which time I obtained my second degree in <b>Health and Safety Engineering</b> at the Pontifical Catholic University of Minas Gerais. In Brazil, a postgraduate degree in Health and Safety Engineering is equivalent to a Bachelor's degree, due to a specificity in the H&S field in the country.
@@ -13,7 +13,7 @@ I lived in the country for 4 years and it was certainly a life-changing experien
 
 In September 2021, I decided to move back to Brazil to pursue a new career path. IT was something I had always been interested in, as it was my second option before I started studying engineering. With this in mind, I started planning a career path in IT and I found out <b>Data Science</B> is the field I like the most because I love to clean, manipulate and visualize data. Moreover, I believe that all the skills I got throughout all my academic and professional years can help me lead my career as a Data Scientist because professionals in this field need to have multitasking skills. To achieve my current career goals, I am studying for an MBA in Data Science and Analytics at the University of São Paulo, and at the same time, studying to become a Full Stack Developer at the National Service for Industrial Training (SENAI) because I think it is very important to have a programming background and this is another field that I am pretty interested in and passionate about.
 
-Some of the Skills I have got so far ![image](https://user-images.githubusercontent.com/94201571/155345949-1a649fae-6110-4d7e-913d-ef26d9981ba1.png)
+Some of the Skills I have got so far 👇
 
 <h3>Data Science</h3>
 
@@ -30,7 +30,7 @@ Some of the Skills I have got so far ![image](https://user-images.githubusercont
 
 
 
-Feel freel to get in touch with me through my Linkedin, Instagram or Email. ![image](https://user-images.githubusercontent.com/94201571/155345949-1a649fae-6110-4d7e-913d-ef26d9981ba1.png)
+Feel freel to get in touch with me through my Linkedin, Instagram or Email 👇
 
 [<img scr="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1645632182~hmac=495f919c9b604b9fefed2f84e5f16777" align="left" alt="Tiago de Almeida-lk" width="30px">][linkedin]
 
