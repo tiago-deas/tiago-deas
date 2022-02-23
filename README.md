@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**tiago-deas/tiago-deas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi there! 👋
 
 My name is Tiago de Almeida Silva and I am a Petroleum and H&S Engineer with specialization in Business. Currently I am pursuing an MBA in Data Science and Analytics at the University of São Paulo (USP)
