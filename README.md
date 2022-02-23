@@ -7,10 +7,10 @@ My name is Tiago de Almeida Silva and I am a Petroleum and H&S Engineer with spe
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-deas&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiago-deas&count_private=true&show_icons=true&theme=merko" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-deas&layout=compact&theme=merko" />
 </a>
 
 Find a little bit more about my academic and professional journey below 👇
