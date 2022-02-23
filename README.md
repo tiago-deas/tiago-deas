@@ -2,15 +2,15 @@
 
 <p align="center"><h5>My name is Tiago de Almeida Silva and I am a Petroleum and H&S Engineer with specialization in Business. Currently I am pursuing an MBA in Data Science and Analytics at the University of São Paulo (USP) and a Full Stack Developer course at the National Service for Industrial Training (SENAI)</h5></p>
 
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+<div><a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=tiago-deas&count_private=true&show_icons=true&theme=merko" width="44%"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-deas&theme=merko&layout=compact" width="43%"/>
-</a>
+</a></div>
 
 
-<p><h5 align="center">Find a little bit more about my academic and professional journey below 👇</h5></p>
+<h5 align="center">Find a little bit more about my academic and professional journey below 👇</h5>
 
 
 <p align="center">In December 2013, I graduated in <b>Petroleum Engineering</b> from the University Centre of Barra Mansa and started working the following year as a <b>GIS assistant</b> at the Brazilian Institute of Geography and Statistics (IBGE). I stayed there for 3 years, during which time I obtained my second degree in <font color='green'><b>Health and Safety Engineering</b></font> at the Pontifical Catholic University of Minas Gerais. In Brazil, a postgraduate degree in Health and Safety Engineering is equivalent to a Bachelor's degree, due to a specificity in the H&S field in the country.<p>
