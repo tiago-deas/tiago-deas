@@ -2,6 +2,8 @@ Hi there! 👋
 
 My name is Tiago de Almeida Silva and I am a Petroleum and H&S Engineer with specialization in Business. Currently I am pursuing an MBA in Data Science and Analytics at the University of São Paulo (USP)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiago-deas&count_private=true&show_icons=true&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 Find a little bit more about my academic and professional journey below 👇
 
 
@@ -25,13 +27,10 @@ Some of the Skills I have got so far 👇
 
 Feel freel to get in touch with me through my Linkedin, Instagram or Email 👇
 
-# Hi, I'm Fagner! :D
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/tiago-deas)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagodeas/)](https://www.linkedin.com/in/tiagodeas/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/fagnerpsantos)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiago-deas&count_private=true&show_icons=true&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
