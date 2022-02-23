@@ -25,6 +25,8 @@
 
 <h3 align="center">:chart_with_upwards_trend: Data Science and Analytics</h3>
 
+<img scr="https://cdn-icons.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1645641753~hmac=66256c261f1f94e1afe0c9c349585609" width="30px">
+
 
 <h3 align="center">:computer: Full Stack Developer</h3>
 
@@ -32,8 +34,6 @@
 
 
 <h4 align="center">Feel freel to get in touch with me through my Linkedin, Instagram or Email 👇</h4>
-
-<img scr="">
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/tiago-deas)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagodeas/)](https://www.linkedin.com/in/tiagodeas/)
