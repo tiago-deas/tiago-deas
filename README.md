@@ -34,7 +34,7 @@
   <img src="https://i.imgur.com/Mumeao9.png" width="80px">
   <img src="https://i.imgur.com/wuC11RE.png" width="80px">
   <img src="https://i.imgur.com/FhlmNBF.png" width="100px">
-  <img src="https://i.imgur.com/lfFVF0g.png" width="100px">
+  <img src="https://i.imgur.com/8eRWZdJ.png" width="90px">
   <img src="https://i.imgur.com/WDBqZDi.png" width="80px">
   <img src="https://i.imgur.com/Hc7eAQE.png" width="80px">
   <img src="https://i.imgur.com/CMMQiUe.png" width="80px">
@@ -49,9 +49,9 @@
 
 
 <div align="center">
-  <img src="https://i.imgur.com/tBCGCG8.png" width="90px">
+  <img src="https://i.imgur.com/tBCGCG8.png" width="95px">
   <img src="https://i.imgur.com/GuKsBJ1.png" width="90px">
-  <img src="https://i.imgur.com/u7eQWue.png" width="60px">
+  <img src="https://i.imgur.com/u7eQWue.png" width="63px">
   <img src="https://i.imgur.com/TQVZdTE.png" width="90px">  
   <img src="https://i.imgur.com/Sr9Jtu8.png" width="80px">  
   <img src="https://i.imgur.com/FnP8Azk.png" width="80px">  
@@ -67,10 +67,10 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tiagodeas/"><img src="https://i.imgur.com/1eo6rSH.png" width="84px"></a>
-  <a href="https://github.com/tiago-deas"><img src="https://i.imgur.com/0723XfP.png" width="80px"></a>
-  <a href="https://www.instagram.com/tiago.deas/"><img src="https://i.imgur.com/iG7XGCl.png" width="95px"></a>
-  <a href="mailto:tiago.deas@usp.br?subject="I come from GitHub!"><img src="https://i.imgur.com/QgkCT4T.png" width="80px"></a>
+  <a href="https://www.linkedin.com/in/tiagodeas/"><img src="https://i.imgur.com/1eo6rSH.png" width="74px"></a>
+  <a href="https://github.com/tiago-deas"><img src="https://i.imgur.com/0723XfP.png" width="70px"></a>
+  <a href="https://www.instagram.com/tiago.deas/"><img src="https://i.imgur.com/iG7XGCl.png" width="85px"></a>
+  <a href="mailto:tiago.deas@usp.br?subject="I come from GitHub!"><img src="https://i.imgur.com/QgkCT4T.png" width="70px"></a>
 </div>
 
 
