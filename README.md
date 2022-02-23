@@ -62,7 +62,7 @@
 
 
 
-<h3 align="center">Feel free to get in touch with me through my GitHub, Linkedin, Instagram, or Email 👇</h3>
+<h3 align="center">Feel free to get in touch with me through my Linkedin, GitHub, Instagram, or Email 👇</h3>
 
 
 
