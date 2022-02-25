@@ -70,7 +70,7 @@
   <a href="https://www.linkedin.com/in/tiagodeas/" target="_blank"><img src="https://i.imgur.com/1eo6rSH.png" width="74px"></a>
   <a href="https://github.com/tiago-deas" target="_blank"><img src="https://i.imgur.com/0723XfP.png" width="70px"></a>
   <a href="https://www.instagram.com/tiago.deas/" target="_blank"><img src="https://i.imgur.com/iG7XGCl.png" width="85px"></a>
-  <a href="mailto:tiago.deas@usp.br?subject="I come from GitHub!" target="_blank"><img src="https://i.imgur.com/QgkCT4T.png" width="70px"></a>
+  <a href="mailto:tiago.deas@usp.br?subject=Hi! I come from GitHub!" target="_blank"><img src="https://i.imgur.com/QgkCT4T.png" width="70px"></a>
 </div>
 
 
