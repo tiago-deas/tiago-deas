@@ -67,10 +67,10 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tiagodeas/" target="_blank"><img src="https://i.imgur.com/1eo6rSH.png" width="74px"></a>
-  <a href="https://github.com/tiago-deas" target="_blank"><img src="https://i.imgur.com/0723XfP.png" width="70px"></a>
-  <a href="https://www.instagram.com/tiago.deas/" target="_blank"><img src="https://i.imgur.com/iG7XGCl.png" width="85px"></a>
-  <a href="mailto:tiago.deas@usp.br?subject=Hi! I come from GitHub!" target="_blank"><img src="https://i.imgur.com/QgkCT4T.png" width="70px"></a>
+  <a href="https://www.linkedin.com/in/tiagodeas/" target="_blank"><img src="https://i.imgur.com/8BrxBGN.gif" width="82px"></a>
+  <a href="https://github.com/tiago-deas" target="_blank"><img src="https://i.imgur.com/bWFHISY.png" width="62px"></a>
+  <a href="https://www.instagram.com/tiago.deas/" target="_blank"><img src="https://i.imgur.com/JQ3n2ZW.gif" width="85px"></a>
+  <a href="mailto:tiago.deas@usp.br?subject=Hi! I come from GitHub!" target="_blank"><img src="https://i.imgur.com/h5fmRrG.png" width="62px"></a>
 </div>
 
 
