@@ -1,4 +1,4 @@
-<div align="center"><h1>Hi There!</h1><img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="90px"></div>
+<div align="center"><h1>Hi There!</h1><img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="90"></div>
 
 
 <h4 align="center">My name is Tiago de Almeida Silva and I am a Petroleum and H&S Engineer with a specialization in Business. Currently, I am pursuing an MBA in Data Science and Analytics at the University of São Paulo (USP) and a Full Stack Developer course at the National Service for Industrial Training (SENAI)</h4>
@@ -67,9 +67,9 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tiagodeas/" target="_blank"><img src="https://i.imgur.com/8BrxBGN.gif" width="82px"></a>
+  <a href="https://www.linkedin.com/in/tiagodeas/" target="_blank"><img src="https://i.imgur.com/8BrxBGN.gif" width="82"></a>
   <a href="https://github.com/tiago-deas" target="_blank"><img src="https://i.imgur.com/bWFHISY.png" width="62px"></a>
-  <a href="https://www.instagram.com/tiago.deas/" target="_blank"><img src="https://i.imgur.com/JQ3n2ZW.gif" width="85px"></a>
+  <a href="https://www.instagram.com/tiago.deas/" target="_blank"><img src="https://i.imgur.com/JQ3n2ZW.gif" width="85"></a>
   <a href="mailto:tiago.deas@usp.br?subject=Hi! I come from GitHub!" target="_blank"><img src="https://i.imgur.com/h5fmRrG.png" width="62px"></a>
 </div>
 
