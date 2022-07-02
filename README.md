@@ -34,6 +34,7 @@
   <img src="https://i.imgur.com/Mumeao9.png" width="80px">
   <img src="https://i.imgur.com/wuC11RE.png" width="80px">
   <img src="https://i.imgur.com/FhlmNBF.png" width="100px">
+  <img src="https://i.imgur.com/h1q8TMr.png" width="100px">
   <img src="https://i.imgur.com/8eRWZdJ.png" width="90px">
   <img src="https://i.imgur.com/WDBqZDi.png" width="80px">
   <img src="https://i.imgur.com/Hc7eAQE.png" width="80px">
