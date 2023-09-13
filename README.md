@@ -1,7 +1,7 @@
 <div align="center"><h1>Hi There!</h1><img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="90"></div>
 
 
-<h4 align="center">My name is Tiago and I am a Petroleum and H&S Engineer with a specialization in Business and Data Science. Currently, I am pursuing a Postgraduate Degree in Finance and seeking for a job opportunity as a data analyst or data scientist.</h4>
+<h4 align="center">My name is Tiago and I am a Petroleum and H&S Engineer with a specialization in Business and Data Science. Currently, I am pursuing a Postgraduate Degree in Finance and seeking a job opportunity as a data analyst or data scientist.</h4>
 
 <section align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiago-deas&count_private=true&show_icons=true&theme=merko" width="44%"/>
